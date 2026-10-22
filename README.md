@@ -1,9 +1,9 @@
 # Image linking for mods
 
-Images used in the CurseForge descriptions of groundbeef's Hytale mods. Hosting them here keeps them out of the CurseForge gallery.
+Images used in the CurseForge descriptions of whatarewedoinghere's Hytale mods. Hosting them here keeps them out of the CurseForge gallery.
 
 - `insight/` – Insight banner, section headers and feature images
-- `lodestar/` – Lodestar banner and section headers
+- `lodestar/` – Lodestar banner, section headers and feature images
 - `viewfinder/` – Viewfinder banner, section headers and feature images
 - `scrawl/` – Scrawl banner, logo, section headers and feature images
 
